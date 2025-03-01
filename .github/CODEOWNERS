@@ -1,0 +1,3 @@
+# This is a CODEOWNERS file.
+# Specify that user yaqbx is responsible for all files
+*       @yaqbx
